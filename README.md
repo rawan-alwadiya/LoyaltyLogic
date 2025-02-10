@@ -21,7 +21,7 @@
   - Provided business-friendly insights into *factors influencing customer churn*.
   - Visualized trends to help companies refine *customer retention strategies*.
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 - * Machine Learning*: CatBoost, Gradient Boosting, XGBoost, LightGBM  
 - * Data Processing*: Pandas, NumPy, One-Hot Encoding, Feature Scaling  
