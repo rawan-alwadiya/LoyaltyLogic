@@ -23,8 +23,8 @@
 
 ## Skills & Technologies
 
-- * Machine Learning*: CatBoost, Gradient Boosting, XGBoost, LightGBM  
-- * Data Processing*: Pandas, NumPy, One-Hot Encoding, Feature Scaling  
-- * Model Optimization*: Hyperparameter Tuning, GridSearchCV  
-- * Data Balancing*: Oversampling, SMOTE  
-- * Model Evaluation*: F1 Score, ROC-AUC, Accuracy
+-  Machine Learning: CatBoost, Gradient Boosting, XGBoost, LightGBM  
+-  Data Processing: Pandas, NumPy, One-Hot Encoding, Feature Scaling  
+-  Model Optimization: Hyperparameter Tuning, GridSearchCV  
+-  Data Balancing: Oversampling, SMOTE  
+-  Model Evaluation: F1 Score, ROC-AUC, Accuracy
