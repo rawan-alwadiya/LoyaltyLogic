@@ -4,27 +4,27 @@
 
 ## Key Features
 
-- * Model Performance Comparison*  
+- *Model Performance Comparison*  
   - Evaluated multiple models (*Logistic Regression, XGBoost, LightGBM, CatBoost*).
   - *CatBoost* achieved the best accuracy and interpretability.
 
-- * Feature Engineering*  
+- *Feature Engineering*  
   - *Categorical Data Processing: Applied **One-Hot Encoding & Label Encoding*.
   - *Scaling: Standardized numerical features with **StandardScaler*.
   - *Feature Derivation: Created new features like **tenure-to-charges ratios* for better predictions.
 
-- * Data Balancing & Preprocessing*  
+- *Data Balancing & Preprocessing*  
   - Handled *imbalanced data* using *Oversampling & SMOTE*.
   - Cleaned and processed raw datasets to enhance model performance.
 
-- * Interpretable Analysis*  
+- *Interpretable Analysis*  
   - Provided business-friendly insights into *factors influencing customer churn*.
   - Visualized trends to help companies refine *customer retention strategies*.
 
 ## Skills & Technologies
 
--  Machine Learning: CatBoost, Gradient Boosting, XGBoost, LightGBM  
--  Data Processing: Pandas, NumPy, One-Hot Encoding, Feature Scaling  
--  Model Optimization: Hyperparameter Tuning, GridSearchCV  
--  Data Balancing: Oversampling, SMOTE  
--  Model Evaluation: F1 Score, ROC-AUC, Accuracy
+- *Machine Learning*: CatBoost, Gradient Boosting, XGBoost, LightGBM  
+- *Data Processing*: Pandas, NumPy, One-Hot Encoding, Feature Scaling  
+- *Model Optimization*: Hyperparameter Tuning, GridSearchCV  
+- *Data Balancing*: Oversampling, SMOTE  
+- *Model Evaluation*: F1 Score, ROC-AUC, Accuracy
