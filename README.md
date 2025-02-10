@@ -18,7 +18,7 @@
   - Cleaned and processed raw datasets to enhance model performance.
 
 - *Interpretable Analysis*  
-  - Provided business-friendly insights into *factors influencing customer churn*.
+  - Provided business-friendly insights into *factors influencing customer churn*. 
   - Visualized trends to help companies refine *customer retention strategies*.
 
 ## Skills & Technologies
